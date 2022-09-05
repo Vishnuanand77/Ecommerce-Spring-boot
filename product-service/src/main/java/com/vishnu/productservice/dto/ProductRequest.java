@@ -1,4 +1,4 @@
-package com.vishnu.productservice.ddo;
+package com.vishnu.productservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
